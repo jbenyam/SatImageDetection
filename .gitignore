@@ -1,1 +1,3 @@
-/home/jbenyam/cnnsat/data
+/home/jbenyam/cnnsat/data/train/*
+/home/jbenyam/cnnsat/data/test/*
+/home/jbenyam/cnnsat/data/valid/*
