@@ -1,0 +1,6 @@
+train: /home/jbenyam/cnnsat/data/train/images
+val: /home/jbenyam/cnnsat/data/valid/images
+test: /home/jbenyam/cnnsat/data/test/images
+
+nc: 1
+names: ['ship']

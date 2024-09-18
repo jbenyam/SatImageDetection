@@ -1,3 +1,4 @@
 /home/jbenyam/cnnsat/data/train/*
 /home/jbenyam/cnnsat/data/test/*
 /home/jbenyam/cnnsat/data/valid/*
+/home/jbenyam/cnnsat/data/data.yaml
